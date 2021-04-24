@@ -2,14 +2,5 @@ lab50:
   window:
     - editor
     - readme
-    - terminal
   files:
     - !include instruction.txt
-    - !include problem1.py
-    - !include problem2.py
-    - !include problem3.py
-    - !include problem4.py
-    - !include problem5.py
-    - !include problem6.py
-    - !include problem7.py
-    - !include problem8.py
