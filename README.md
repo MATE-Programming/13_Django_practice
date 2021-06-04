@@ -1,8 +1,6 @@
 ![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_13.svg?raw=true)
 # Практическое задание на Django
 
-      Сделайте презентацию программы, загрузите видео в youtube и отправьте ссылку в LMS.
-
 #### 1. Создайте Django проект и приложения
 
 
